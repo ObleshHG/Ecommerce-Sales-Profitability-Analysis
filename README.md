@@ -60,7 +60,7 @@ An interactive Power BI project designed to analyze e-commerce sales performance
 ![Dashboard Overview](Dashboard-overview.png)
 
 ### Customer Behaviour & Product Insights
-![Customer Analysis](Customer-analysis.png)
+![Customer Analysis](Customer-analysis..png)
 
 ## Author
 
