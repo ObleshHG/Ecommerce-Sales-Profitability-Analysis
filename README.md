@@ -54,8 +54,18 @@ An interactive Power BI project designed to analyze e-commerce sales performance
 * `Dashboard-overview.png` – Overall Business Performance dashboard
 * `Customer-analysis.png` – Customer Behaviour dashboard
 
+## Dashboard Preview
+
+### Overall Business Performance
+![Dashboard Overview](Dashboard-overview.png)
+
+### Customer Behaviour & Product Insights
+![Customer Analysis](Customer-analysis.png)
+
 ## Author
 
 Oblesh HG
 
 GitHub: https://github.com/ObleshHG
+
+
